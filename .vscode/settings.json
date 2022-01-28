@@ -3,5 +3,6 @@
   "files.associations": {
     "*.prisma": "prisma",
     "xft.h": "c"
-  }
+  },
+  "editor.formatOnSave": false
 }
