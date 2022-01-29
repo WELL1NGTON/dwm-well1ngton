@@ -7,3 +7,4 @@ dwm
 !.vscode/extensions.json
 *.orig
 *.rej
+config.h
